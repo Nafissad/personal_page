@@ -1,0 +1,188 @@
+
+
+             .navbar-inverse{
+                 border-radius: 0;
+                 border-color: rgba(100, 100, 100, 0);
+                 background-color: rgba(100, 100, 100, 0);
+                 position: fixed;
+                 width: 100%;
+             
+                
+             }
+
+             .navbar-brand { 
+                 color : white !important;  
+                 font-size: 35px;
+                 padding-left: 70px; 
+                 padding-top: 30px;
+                }
+
+                .navbar-right{ 
+                    margin-left: 0px;}
+
+
+             .navbar-right li a{
+
+                color: white !important;
+             }   
+
+             .navbar-right li a p{
+                 margin: 0;
+                
+             }   
+
+            .navbar-right li a i{
+
+                 font-size:7px;
+                 color: white;
+                 padding:0;
+                 opacity:0;
+                 transition: opacity 0.5s;
+
+             }   
+
+
+
+             .navbar-right li a:hover i{
+                opacity: 1 !important;
+
+             }
+
+             .container-fluid ul{
+                padding-right: 80px; 
+                padding-top: 15px;
+                font-size: 16px;
+             }
+             .container-fluid ul li{
+                padding-right: 12px; 
+            
+             }
+
+
+            .home-background{
+
+                background-image: url("https://www.planwallpaper.com/static/images/cool_wooden_wall_1920x1200_cool_twitter_backgrounds.jpg");
+                background-repeat:no-repeat; 
+                background-size: cover; 
+                height: 600px;
+              
+            }
+
+            .home-part{
+                margin-top: 0;
+                height: 600px;
+            }
+
+
+            .home-background-color{
+
+                background-color: rgba(17, 19, 41, 0.863);
+                height: 600px;
+            }
+
+            .hw{
+                font-size: 25px;
+                color: white;
+                text-align: center;
+                padding-top: 170px;
+            }
+
+            .iamdev{
+
+                font-size: 60px;
+                color: white;
+                text-align: center;
+                padding: 20px 0;
+                
+
+            }
+
+        
+
+
+            .download-cv a{
+                text-decoration: none;
+                color: white;
+                border: 2px solid white;
+                border-radius: 25px;
+                color: white; 
+                text-align: center;
+                width: 150px;
+                padding: 15px 25px;
+                display: block;
+                margin: 60px auto;
+                transition:color 0.5s,background-color 0.5s;
+                
+            }
+
+            .download-cv a:hover{
+
+                background-color: white;
+                color: black; 
+            }
+
+            .fa-circle{
+                font-size:8px; 
+                color: white;
+                padding-top: 10px;
+            }           
+
+            .links_list{
+                width: fit-content !important;
+                margin: 0 auto !important;
+            }
+
+            .myp{
+
+                margin-bottom: 0;
+            }
+
+            .navbar-right{
+
+                margin-right: -50px !important;
+            }
+
+            .active-nav a i{
+
+                opacity: 1 !important;
+
+            }
+
+            .links_list li{
+                padding: 0 10px;
+            }
+
+
+            .about-part{
+
+                background-color: #efefef;
+                height: 1000px;
+            }
+
+            .scroll{
+                background-color: rgba(240,240,240,1);   
+                color: black;
+                height: 80px;
+                border-bottom: 1px solid rgba(189, 184, 184, 0);
+                box-shadow:0px 3px 10px rgba(120,120,120,0.8) ;
+                  
+              
+            }
+
+            .scroll p{
+
+                color: black;
+            }
+
+            .scroll ul li a i{
+
+            color: black;
+             }
+
+            #navbar{
+                
+                transition: background-color 0.5s, color 0.5s,height 0.5s;
+               
+            }
+
+        

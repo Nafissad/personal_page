@@ -1,1 +1,1 @@
-PersonalPageRepo
+personal_page
